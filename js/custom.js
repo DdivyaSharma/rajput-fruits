@@ -18,7 +18,7 @@
               { src: 'images/team/_839fad33-8eec-41a1-a7cb-7c7de4e5c9a4.jpeg'},
               { src: 'images/team/_cf3c9436-0027-4194-a121-ace002902286.jpeg'},
               { src: 'images/team/pexels-engin-akyurt-3085148.jpg' },
-              { src: 'images/team/small-business-owner-drinking-coffee.jpg' }
+              { src: 'images/team/small-business-owner-drinking-coffee-3.jpg' }
           ],
           timer: false,
           transition: [ 'fade', 'zoomOut', 'swirlLeft' ]
