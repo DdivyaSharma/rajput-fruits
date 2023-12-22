@@ -12,11 +12,11 @@
       $('.hero-slides').vegas({
           slides: [
               { src: 'images/team/cute-korean-barista-girl-pouring-coffee-prepare-filter-batch-brew-pour-working-cafe.jpg' },
-              { src: 'images/team/_09eb2fbf-143d-4367-8d6d-cc4f88031e70-1.jpg'},
-              { src: 'images/team/_25b8f0af-3ca7-472e-990e-824905887549.jpg'},
-              { src: 'images/team/_47af4e4a-1f3d-4dcb-8464-67a3d4761885.jpg'},
-              { src: 'images/team/_839fad33-8eec-41a1-a7cb-7c7de4e5c9a4.jpg'},
-              { src: 'images/team/_cf3c9436-0027-4194-a121-ace002902286.jpg'},
+              { src: 'images/team/09eb2fbf-143d-4367-8d6d-cc4f88031e70-1.jpg'},
+              { src: 'images/team/25b8f0af-3ca7-472e-990e-824905887549.jpg'},
+              { src: 'images/team/47af4e4a-1f3d-4dcb-8464-67a3d4761885.jpg'},
+              { src: 'images/team/839fad33-8eec-41a1-a7cb-7c7de4e5c9a4.jpg'},
+              { src: 'images/team/cf3c9436-0027-4194-a121-ace002902286.jpg'},
               { src: 'images/team/pexels-engin-akyurt-3085148.jpg' },
               { src: 'images/team/small-business-owner-drinking-coffee-3.jpg' }
           ],
