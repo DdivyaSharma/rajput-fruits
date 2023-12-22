@@ -343,7 +343,7 @@ strong {
 }
 
 .navbar .container {
-  background: rgba(0, 0, 0, 0.35);
+  background: rgba(0, 0, 0, 81%);
   border-radius: var(--border-radius-medium);
   padding: 15px 30px;
 }
@@ -601,7 +601,7 @@ strong {
   ABOUT              
 -----------------------------------------*/
 .about-section {
-  background-color: var(--secondary-color);
+  background-color: #48341d;
   position: relative;
 }
 
@@ -746,8 +746,8 @@ strong {
   REVIEWS              
 -----------------------------------------*/
 .reviews-section {
-  background-color: #7c5c52;
-}
+    background-color: #604c46;
+  }
 
 .reviews-block {
   background-color: var(--section-bg-color);
@@ -783,7 +783,7 @@ strong {
 .reviews-block-info p {
   font-size: var(--btn-font-size);
   font-style: italic;
-  color: rgba(255, 255, 255, 0.75);
+  color: rgb(2 2 2);
 }
 
 .reviews-group i {
@@ -844,7 +844,7 @@ strong {
   CONTACT               
 -----------------------------------------*/
 .contact-section {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.45), rgba(188, 108, 37, 1)), url('../images/young-female-barista-wear-face-mask-serving-take-away-hot-coffee-paper-cup-consumer-cafe.jpg');
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.45), #4c452e), url(../images/young-female-barista-wear-face-mask-serving-take-away-hot-coffee-paper-cup-consumer-cafe.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
